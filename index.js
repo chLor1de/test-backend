@@ -5,44 +5,44 @@ app.use(cors());
 
 const items = [
   {
-    title: "Very interesting article",
-    labels: ["beginner", "frontend", "js"],
+    title: "Dev.to",
+    labels: ["beginner", "frontend", "backend", "js"],
     description:
       "Lorem ipsum dolor sit amet, case dissentiet ut has, eam tempor laboramus voluptatibus et, pri quando quodsi in. Est ea assentior forensibus disputationi. Ea vis malis albucius dissentiunt, cu tractatos vulputate definitiones sit. Erant movet semper no vel.",
-    thumbnail: "https://fakeimg.pl/400/",
-    url: "http://getskilled.io/"
+    thumbnail: "https://picsum.photos/400/300",
+    url: "http://dev.to/"
   },
   {
-    title: "Very interesting article",
+    title: "Skillio",
     labels: ["beginner", "frontend", "js"],
     description:
       "Lorem ipsum dolor sit amet, case dissentiet ut has, eam tempor laboramus voluptatibus et, pri quando quodsi in. Est ea assentior forensibus disputationi. Ea vis malis albucius dissentiunt, cu tractatos vulputate definitiones sit. Erant movet semper no vel.",
-    thumbnail: "https://fakeimg.pl/400/",
-    url: "http://getskilled.io/"
+    thumbnail: "https://picsum.photos/400/300",
+    url: "http://skillio.net"
   },
   {
-    title: "Very interesting article",
-    labels: ["beginner", "frontend", "js"],
+    title: "Reddit programming",
+    labels: ["beginner", "programming"],
     description:
       "Lorem ipsum dolor sit amet, case dissentiet ut has, eam tempor laboramus voluptatibus et, pri quando quodsi in. Est ea assentior forensibus disputationi. Ea vis malis albucius dissentiunt, cu tractatos vulputate definitiones sit. Erant movet semper no vel.",
-    thumbnail: "https://fakeimg.pl/400/",
-    url: "http://getskilled.io/"
+    thumbnail: "https://picsum.photos/400/300",
+    url: "https://www.reddit.com/r/programming/"
   },
   {
-    title: "Very interesting article",
+    title: "Vue documentation",
     labels: ["beginner", "frontend", "js"],
     description:
       "Lorem ipsum dolor sit amet, case dissentiet ut has, eam tempor laboramus voluptatibus et, pri quando quodsi in. Est ea assentior forensibus disputationi. Ea vis malis albucius dissentiunt, cu tractatos vulputate definitiones sit. Erant movet semper no vel.",
-    thumbnail: "https://fakeimg.pl/400/",
-    url: "http://getskilled.io/"
+    thumbnail: "https://picsum.photos/400/300",
+    url: "https://vuejs.org/v2/guide/"
   },
   {
-    title: "Very interesting article",
-    labels: ["beginner", "frontend", "js"],
+    title: "Apollo Graphql",
+    labels: ["beginner", "frontend", "backend", "graphql", "js"],
     description:
       "Lorem ipsum dolor sit amet, case dissentiet ut has, eam tempor laboramus voluptatibus et, pri quando quodsi in. Est ea assentior forensibus disputationi. Ea vis malis albucius dissentiunt, cu tractatos vulputate definitiones sit. Erant movet semper no vel.",
-    thumbnail: "https://fakeimg.pl/400/",
-    url: "http://getskilled.io/"
+    thumbnail: "https://picsum.photos/400/300",
+    url: "https://www.apollographql.com/"
   }
 ];
 
